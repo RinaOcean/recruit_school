@@ -12,7 +12,7 @@
  */
 
 function customApply(obj, args) {
-  console.log("Hi");
+  
   throw new Error('Put your solution here');
 }
 
